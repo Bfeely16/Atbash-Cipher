@@ -1,3 +1,3 @@
-[Mechanics](Mechanics.md)
+[Mechanics](mechanics.md)
 
 [Code](code.md)
